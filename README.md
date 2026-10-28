@@ -135,13 +135,14 @@ Refer to `backend/routes/movieRoutes.js` and `backend/models/Movie.js` for exact
 
 ## Screenshots
 
-### Dashboard
+### Dashboard Overview
+![FrameList Dashboard](screenshots/dashboard.png)
 
-![FrameList dashboard](screenshots/dashboard.png)
+### Filtered Movie List
+![Filtered Movie List](screenshots/movie-list.png)
 
-### Movie List
-
-![FrameList movie list](screenshots/movie-list.png)
+### Complete Movie Collection
+![Movie Collection](screenshots/movie-collection.png)
 
 ## Troubleshooting
 
