@@ -19,6 +19,7 @@
   "license": "ISC",
   "scripts": {
     "dev": "nodemon server.js",
-    "start": "node server.js"
+    "start": "node server.js",
+    "seed": "node scripts/seedMovies.js"
   }
 }
